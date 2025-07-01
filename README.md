@@ -1,2 +1,1 @@
-# viralchindo
-viralchindo
+# [viralchindo](https://viralchindo.pages.dev)
